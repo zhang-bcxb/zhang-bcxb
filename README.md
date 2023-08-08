@@ -15,8 +15,6 @@
 
 ![zhang-bcxb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhang-bcxb&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
-<br>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-bcxb&langs_count=6&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-bcxb&layout=compact&langs_count=6&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 <br><br>
