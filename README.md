@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/>
   <a href="https://space.bilibili.com/337439992"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a>
   <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
-"><img src="https://img.shields.io/static/v1?label=Blog&message=萌新杀熟&color=green"/></a>
+"><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green"/></a>
 </p>
 <br>
 
