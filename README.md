@@ -31,7 +31,7 @@
 ### 🍭 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/50-Case-Studies)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
 <br>
 
 ### 🔥 Github 活跃度
@@ -44,7 +44,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=zhang-bcxb&theme=dracula&custom_title=编程细胞的心电图&radius=10)
 <br>
 
-<details><summary><strong style="color:#e96443;">[点击展开] 赞赏支持 </strong></summary>
+<details><summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
 
 <img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%">
 <img align="center" src="img/支付宝.jpg" alt="支付宝赞赏" width="30%">
