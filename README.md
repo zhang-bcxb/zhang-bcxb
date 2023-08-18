@@ -32,6 +32,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/50-Case-Studies)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-blog&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-blog)
 <br>
 
 ### 🔥 Github 活跃度
