@@ -17,18 +17,18 @@
 
 <img align="right" src="https://moe-counter.glitch.me/get/@:zhang-bcxb?theme=rule34">
 
-## 🧸 前端工程师—编程细胞
+## 🧸 全栈工程师—编程细胞
 
 热爱前端、热爱技术。<br>喜欢参与一些开源项目的讨论。
 <br>
 
-### 💞 社交统计
+### 💞 我的社交统计
 
-![GitHub统计](https://stats.justsong.cn/api/github?username=zhang-bcxb&theme=dark&lang=zh-CN)
+[![GitHub统计](https://stats.justsong.cn/api/github?username=zhang-bcxb&theme=dark&lang=zh-CN)](https://github.com/zhang-bcxb)
 [![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=zh-CN)](https://space.bilibili.com/337439992)
 <br>
 
-### 🍭 开源项目
+### 🍭 GitHub 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/50-Case-Studies)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
@@ -36,7 +36,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
 <br>
 
-### 🔥 Github 活跃度
+### 🔥 GitHub 活跃度
 
 ![zhang-bcxb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhang-bcxb&custom_title=编程细胞的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-bcxb&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
